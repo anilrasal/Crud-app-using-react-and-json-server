@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Dalit Kamble",
+      "email": "dalit@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Parmeshwar Gayakwad",
+      "email": "parmeshwar@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Datta",
+      "email": "datta@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Gangadhar",
+      "email": "gangadhar@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Kiran",
+      "email": "kiran@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "Rafik",
+      "email": "rafik@gmail.com"
+    },
+    {
+      "id": "aefd",
+      "name": "Test",
+      "email": "annurasal123@gmail.com"
+    },
+    {
+      "id": "a49c",
+      "name": "Anil",
+      "email": "anil@gmail.com"
+    }
+  ]
+}
