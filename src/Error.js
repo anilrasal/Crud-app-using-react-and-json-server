@@ -5,7 +5,7 @@ const Error = () => {
   return (
     <div>
       <h2>page not found </h2>
-      <button onClick={() => Navigate("/")}>Home page</button>
+      <button onClick={() => navigate("/")}>Home page</button>
     </div>
   );
 };
