@@ -3,6 +3,7 @@ import App from "./App";
 import Add from "./Add";
 import Header from "./Header";
 import Edit from "./Edit";
+import Error from "./Error";
 
 const AppRouter = () => {
   return (
@@ -12,6 +13,7 @@ const AppRouter = () => {
         <Route path="/" element={<App />}></Route>
         <Route path="/create" element={<Add />}></Route>
         <Route path="/update/:id" element={<Edit />}></Route>
+        <Route path="/*" element={<Error />}></Route>
       </Routes>
     </BrowserRouter>
   );
